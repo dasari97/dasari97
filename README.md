@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Dasari Sai Krishna], a passionate IT professional with expertise in cloud computing, infrastructure automation, and DevOps practices. Here's a glimpse of my skill set:
+I'm Dasari Sai Krishna, a passionate IT professional with expertise in cloud computing, infrastructure automation, and DevOps practices. Here's a glimpse of my skill set:
 
 ## 💼 Professional Experience
 
